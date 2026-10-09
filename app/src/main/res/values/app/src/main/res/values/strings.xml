@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Island</string>
+    <string name="service_desc">Island ওভারলে সবসময় স্ক্রিনে (লক স্ক্রিনসহ) দেখানোর জন্য এই সার্ভিস দরকার।</string>
+</resources>
